@@ -1,0 +1,55 @@
+body {
+	padding-top: 10px;
+
+	font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+	color: #00b7ff;
+}
+
+.vertical-menu {
+	width: 200px;
+}
+.nav-item {
+	background-color: rgb(75, 109, 109);
+	color: #4caf50;
+}
+.nav-link {
+	background-color: rgb(121, 110, 110);
+	color: #4caf50;
+}
+.vertical-menu a {
+	margin-left: -60px;
+	background-color: #eee;
+	color: black;
+	display: block;
+	padding: 30px;
+	text-decoration: none;
+}
+
+.vertical-menu a:hover {
+	background-color: #ccc;
+}
+
+.vertical-menu a.active {
+	background-color: #4caf50;
+	color: white;
+}
+.faas {
+	margin-left: 20px;
+}
+.card {
+	padding: 10px;
+	margin: 10px;
+}
+.card_style {
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+.butan {
+	margin-top: 20px;
+}
+tbody {
+	padding: 30px;
+}
